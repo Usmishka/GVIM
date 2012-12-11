@@ -1,8 +1,6 @@
 GVIM
 ====
-
-My vim configuration
-
+"   Vim Configure   "
 set nu
 set encoding=utf-8
 syntax enable
